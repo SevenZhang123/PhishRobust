@@ -1,0 +1,1 @@
+https://bozur.net/ws/?eBayISAPI.dll?SignIn&UsingSSL=1&pUserId=&co_partnerId=2&siteid=0&ru=https://my.ebay.com/ws/eBayISAPI.dll?MyEbayBeta

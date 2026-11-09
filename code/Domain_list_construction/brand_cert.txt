@@ -1,0 +1,95 @@
+Bank of America	Bank of America Corporation
+Adobe	Adobe Inc
+ADP	Automatic Data Processing, Inc.
+Alibaba	Alibaba (China) Technology Co., Ltd.
+American Express	American Express Company
+AOL+Yahoo!	Yahoo Holdings Inc.
+AT&T	AT&T Services, Inc.
+ATB Financial	ATB Financial
+Banca Sella	BANCA SELLA HOLDING S.P.A.
+Banco de Chile	Banco de Chile
+Banco Safra	Safra National Bank of New York
+Bank of Montreal	Bank of Montreal
+Bankia	CaixaBank SA
+Bouygues Telecom	BOUYGUES TELECOM SA
+BT Group plc	British Telecommunications Public Limited Company
+Cairo Amman Bank	Cairo Amman Bank
+Caixa Economica Federal	CAIXA ECONOMICA FEDERAL
+Caixa Geral de Depositos	Caixa Geral de Depósitos S.A.
+CaixaBank	CaixaBank SA
+Canadian Imperial Bank of Commerce	Canadian Imperial Bank of Commerce
+Cembra Money Bank AG	Cembra Money Bank AG
+CenturyLink	Lumen Technologies, Inc.
+Chase Personal Banking	JPMorgan Chase & Co.
+Chronopost International	Chronopost SAS
+Credit Agricole S.A	Credit Agricole SA
+Delta Air Lines	Delta Air Lines, Inc.
+Desjardins	FEDERATION DES CAISSES DESJARDINS DU QUEBEC
+Deutsche Telekom	Deutsche Telekom IT GmbH
+DGI (French Tax Authority)	DIRECTION GENERALE DES FINANCES PUBLIQUES
+DHL	Deutsche Post AG
+Discover	DFS Services LLC
+DocuSign	DocuSign, Inc.
+Dropbox	Dropbox, Inc
+eBay	eBay, Inc.
+First Investment Bank	First Investment Bank AD
+GoDaddy	GoDaddy Inc.
+Government of Canada	Employment and Social Development Canada
+HSBC Bank	HSBC Group Management Services Limited
+ICICI Bank Limited	ICICI Bank Limited
+ING	ING Groep N.V.
+Itau Unibanco S.A	Itau Unibanco S.A.
+Key Bank	KeyBank National Association
+LinkedIn Corporation	LinkedIn Corporation
+Lloyds TSB Group	Lloyds Banking Group PLC
+Made-In-China	Focus Technology Co. Ltd.
+Mastercard International	MasterCard International Incorporated
+Match	MATCH GROUP, LLC
+MBNA Corportation	The Toronto-Dominion Bank
+National Australia Bank Limited	National Australia Bank Limited
+National Bank of Canada	Banque Nationale du Canada
+NatWest Personal Banking	Natwest Group Plc
+Naver	NAVER Cloud Corp.
+Navy Federal Credit Union	Navy Federal Credit Union
+NedBank Limited	Nedbank Limited
+NetEase	Netease Interactive Entertainment Pte. Ltd.
+Orange	Orange SA
+PayPal	PayPal, Inc.
+Rackspace	Rackspace Technology, Inc.
+RBC Royal Bank	Royal Bank of Canada
+Scotiabank	The Bank of Nova Scotia
+SF Express Co	顺丰科技有限公司
+Singtel Optus	Singtel Optus Pty Limited
+SNS Bank N.V	de Volksbank N.V.
+Societe Generale	SOCIETE GENERALE SA
+Spark New Zealand	SPARK NEW ZEALAND LIMITED
+Sparkasse Bank	S-Communication Services GmbH
+Spectrum	Charter Communications Holding Company LLC
+Standard Chartered Bank	STANDARD CHARTERED BANK
+Steam	Valve Corp
+Suncorp Group	Suncorp Corporate Services Pty Ltd
+Swiss Post	Die Schweizerische Post AG
+Swisscom IT Services AG	Swisscom (Schweiz) AG
+TalkTalk Communications	TalkTalk Communications Limited
+TD Bank Group	The Toronto-Dominion Bank
+Telstra Corporation Limited	Telstra Limited
+TSB Bank Plc	TSB Bank Plc
+U.S. Bank	U.S. Bank, National Association
+Uber	Uber Technologies, Inc.
+UBS AG	UBS AG
+Verizon Wireless	Verizon Data Services LLC
+Vodafone	Vodafone Group Services Limited
+Wells Fargo & Company	Wells Fargo & Company
+Westpac Institutional Banking	Westpac Banking Corporation
+First National Bank	F.N.B. Corporation
+Apple	Apple Inc.
+Facebook	Meta Platforms, Inc.
+Instagram	Meta Platforms, Inc.
+WhatsApp	Meta Platforms, Inc.
+Microsoft OneDrive	Microsoft Corporation
+Office365	Microsoft Corporation
+Outlook	Microsoft Corporation
+Netflix	Netflix
+Comcast Corporation	Comcast Corporation
+M&T Bank Corporation	M&T Bank Corporation
+Stripe	Stripe, Inc

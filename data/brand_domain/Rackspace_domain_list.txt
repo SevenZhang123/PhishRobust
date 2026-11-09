@@ -1,0 +1,5 @@
+altcdn.com
+configdrift.com
+rackspace.com
+raxcdn.com
+raxcloud.com
